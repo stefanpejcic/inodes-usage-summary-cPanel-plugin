@@ -1,7 +1,7 @@
 
 Displays Inodes usage summary for a cPanel account.
 
-<!--img src="https://raw.githubusercontent.com/stefanpejcic/inodes-usage-summary-cPanel-plugin/main/assets/img/screenshoot.png"></img-->
+<img src="https://raw.githubusercontent.com/stefanpejcic/inodes-usage-summary-cPanel-plugin/main/assets/img/screenshoot.png"></img>
 
 ### Features
 
