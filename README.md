@@ -5,7 +5,7 @@ Displays Inodes usage summary for a cPanel account.
 
 ### Features
 
-- displays inodes usage and size for each folder/file in cpšanel user home directory
+- displays inodes usage and size for each folder/file in cpanel user home directory
 
 
 ### TO DO
