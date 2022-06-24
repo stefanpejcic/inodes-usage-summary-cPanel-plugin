@@ -13,7 +13,8 @@ Displays Inodes usage summary for a cPanel account.
 - path to the script is hardcoded: /usr/local/cpanel/base/frontend/paper_lantern/inodes/./inodes
 - cpanel user root directory is /home + username 
 - 
-<!--### How to install the plugin
+
+### How to install the plugin
 
 To install this free cpanel plugin you need access to the WHM and terminal. Login to SSH and run the following commands to install the plugin:
 
@@ -31,7 +32,6 @@ To install this free cpanel plugin you need access to the WHM and terminal. Logi
 `unzip main.zip`
 `/bin/cp lastlogin-cpanel-plugin-main  -R /usr/local/cpanel/base/frontend/jupiter/lastlogin/`
 `/usr/local/cpanel/scripts/install_plugin /usr/local/cpanel/base/frontend/jupiter/lastlogin/info.json`
--->
 
 
 ### Changelog
